@@ -1,5 +1,5 @@
 # elective-dataset-2022fall-PKU
-某校2022年秋季选课系统验证码数据集(1781+6000张）
+某校2022年秋季选课系统验证码数据集(1781+6000+6000张）
 
 选课系统验证码有四位验证码和五位验证码两种，两种类型的验证码均由Google开源的验证码工具[Kaptcha](https://code.google.com/archive/p/kaptcha/)自动生成。
 
